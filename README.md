@@ -1,5 +1,4 @@
 # hello-world
-My initial learning repository
 
 Howdy to you all!
 
